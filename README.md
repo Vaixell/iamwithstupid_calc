@@ -5,7 +5,7 @@ Too much stuff that could have been written x times better, I know. And I don't 
 
 Mainfile: [https://github.com/Vaixell/iamwithstupid_calc/blob/master/iamwithstupid.php](./iamwithstupid.php)
 
-PRs and Issues will be ignored.
+No PRs.
 
 ## Oi m8, ya got a Loicense fo that thang?
 Wanted to use the WTFPL, but Github is stupid.
