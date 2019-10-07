@@ -1,6 +1,8 @@
 # Das I am with stupid!-Kalkulierer
 **Part of ze Vade2 project.**
 
+Too much stuff that could have been written x times better, I know. And I don't care! :herp:
+
 Mainfile: [https://github.com/Vaixell/iamwithstupid_calc/blob/master/iamwithstupid.php](./iamwithstupid.php)
 
 ## Oi m8, ya got a Loicense fo that thang?
