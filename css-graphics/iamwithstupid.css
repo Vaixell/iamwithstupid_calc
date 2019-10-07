@@ -1,0 +1,40 @@
+/* Schreibartsachens von Vade3 recycled. */
+
+.schreibart_kompakt{
+    border-collapse: collapse;
+    width: 100%;
+	padding: .25% .25% .25% 0;
+	color: gray;}
+.schreibart_kompakt tr:not(.spacer){
+	height: 2.8em;}
+.schreibart_bart{
+    background: rgba(0, 0, 0, .5);}
+.spacer{
+    height: 12px;}
+.spacer:last-child{
+    display: none;}
+.schreibart_zeichen{
+    text-align: center;
+    font-weight: bold;}
+.schreibart_bart > td:not(:first-child){
+    padding: .333em;}
+.schreibart_bart > td:first-child{
+    padding-left: .333em;}
+input[placeholder="Nenne..."]{
+    font-size: 1.2em;}
+.plus{
+    display: inline;
+	border: 1px solid gray;
+	font-weight: bold;
+	padding: 1px 3px 1px 3px;
+	color: gray;
+	font-size: .8em;}
+.minus{
+    display: inline;
+	border: 1px solid gray;
+	font-weight: bold;
+	padding: 1px 5px 1px 5px;
+	color: gray;
+	font-size: .8em;}
+#iamwithstupid_antworten, #iamwithstupid_respondas{
+    padding-left: 26px;}
