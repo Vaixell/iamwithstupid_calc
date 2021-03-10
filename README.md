@@ -2,7 +2,7 @@
 **Part of ze Vade2 project.**
 
 ## Oi m8, ya got a Loicense fo that thang?
-WTFPL.
+The Unlicense.
 
 ## So, how ze fugg does dis wörk?
 Magic.
